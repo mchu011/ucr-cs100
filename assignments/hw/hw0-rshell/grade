@@ -1,4 +1,8 @@
-/ 100
+0 / 100
 
-directory structure is not correct!
-Makefile name shouldn't be all capital letters!
+directory structure is not correct
+Makefile name shouldn't be all capital letters
+Makefile doesn't work
+README file should be more explanatory
+
+-100: doesn't compile with necessary flags, gives seg error
