@@ -1,4 +1,6 @@
- 0    / 100  
+25    / 100
+
+regraded in office hours
 
     $ make
 make: *** No rule to make target `../src/ls.cpp', needed by `rshell'.  Stop.
